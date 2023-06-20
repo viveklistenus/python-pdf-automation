@@ -1,6 +1,5 @@
 # PDF Book Downloader
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 A Python script that allows you to search for and download PDF books from the web using Google search. The script utilizes the `googlesearch` library, along with other dependencies, to automate the process of finding and saving PDF files directly to your device.
 
